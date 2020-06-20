@@ -1,0 +1,8 @@
+ASSIGNMENT
+
+1. Transitive closure is reachability matrix of a directed graph where vertex j is reachable from another vertex i for all vertex pairs (i, j) in the given graph. Here reachable mean that there is a path from vertex i to j.Reachable matrix consist whether a vertex is reachable from other vertices.
+
+2.   1 1 1 1
+     0 1 0 0
+     0 1 1 1
+     0 1 0 1
